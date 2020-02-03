@@ -1,0 +1,15 @@
+a {
+  margin:50px;
+  padding:20px;
+  font-size:20px;
+}
+body * {
+  text-align:center;
+
+}
+body {
+  display:flex;
+  flex-flow:column nowrap;
+  justify-content:space-around;
+  padding:20px;
+}
